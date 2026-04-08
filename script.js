@@ -1,3 +1,4 @@
+// ignore this is something a vscode plugin generated
 /* BLUEPRINT-JS-START */
 // 🚀 Auto-generado para c: 4/8/2026, 12:52:07 PM
 
